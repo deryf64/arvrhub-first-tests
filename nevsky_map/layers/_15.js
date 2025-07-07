@@ -1,0 +1,11 @@
+var json__15 = {
+"type": "FeatureCollection",
+"name": "_15",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Церковь Александра Невского в Зыкеево (сохр.)", "descriptio": "\n<div align=\"center\"><a href=\"http:\/\/www.temples.ru\/gallery.php?CardID=19227\"><img src=\"http:\/\/www.temples.ru\/private\/f000316\/316_0139760g.jpg\" border=1 width=\"180\" height=\"160\"><\/a><br><br>\nРязанская обл., Спасский р-н, с. Зык�", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 40.769405, 54.564996, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Церковь Александра Невского в Дашково-Песочне (действ.)", "descriptio": "\n<div align=\"center\"><a href=\"http:\/\/www.temples.ru\/gallery.php?CardID=17913\"><img src=\"http:\/\/www.temples.ru\/private\/f000204\/204_0125343g.jpg\" border=1 width=\"125\" height=\"180\"><\/a><br><br>\nг. Рязань, ул. Новоселов, 33В<br><br><a href", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 39.81344, 54.608385, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Александро-Невский Ибердский женский монастырь (сохр.)", "descriptio": "\n<div align=\"center\"><a href=\"http:\/\/www.temples.ru\/gallery.php?CardID=17430\"><img src=\"http:\/\/www.temples.ru\/private\/f000580\/580_0110188g.jpg\" border=1 width=\"180\" height=\"119\"><\/a><br><br>\nРязанская обл., Кораблинский р-н, у�", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 40.271389, 53.876667, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Церковь Александра Невского в Криуше (новая) (действ.)", "descriptio": "\n<div align=\"center\"><a href=\"http:\/\/www.temples.ru\/gallery.php?CardID=18846\"><img src=\"http:\/\/www.temples.ru\/private\/f000316\/316_0135730g.jpg\" border=1 width=\"180\" height=\"135\"><\/a><br><br>\nРязанская обл., Клепиковский р-н, с.", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 39.957104, 54.953765, 0.0 ] } }
+]
+}

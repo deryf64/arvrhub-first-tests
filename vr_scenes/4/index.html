@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cursor</title>
+    <script src="https://aframe.io/releases/1.1.0/aframe.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/aframe-blink-controls/dist/aframe-blink-controls.min.js"></script>
+    <script src="https://github.com/fernandojsg/aframe-camera-transform-controls-component/blob/master/dist/aframe-camera-transform-controls-component.min.js"></script>
+</head>
+<body>
+  <a-scene camera-transform-controls="" background="color: FFFFFF">
+      <!-- <a-entity id="cam-rig" position="0 0 6">
+        <a-camera id="head"></a-camera>
+        <a-entity teleport-controls="cameraRig: #cam-rig;
+                                     teleportOrigin: #head;
+                                     collisionEntities: #ground"
+                  oculus-touch-controls="hand: right">
+        </a-entity>
+      </a-entity> -->
+
+    <a-entity id="player">
+      <!-- camera -->
+      <a-entity id="camera" camera wasd-controls look-controls></a-entity>
+      <!-- hand controls -->
+      <a-entity id="left-hand" oculus-touch-controls="hand: left" blink-controls></a-entity>
+      <a-entity id="right-hand" oculus-touch-controls="hand: right"></a-entity>
+    </a-entity>
+      
+      
+    <a-assets>
+      <a-asset-item id="village" src="./gltf/scene.gltf"></a-asset-item>
+      <a-asset-item id="mesh" src="./plane/plane.gltf"></a-asset-item>
+    </a-assets>
+    <a-entity gltf-model="#village"></a-entity>
+    <a-plane color="#DDDDDD" shader="flat" rotation="-90 0 0" scale="100 100 1" position="0 -0.1 0"></a-plane>
+    <a-entity id="ground" gltf-model="#mesh"></a-entity>
+  </a-scene>
+</body>
+</html>

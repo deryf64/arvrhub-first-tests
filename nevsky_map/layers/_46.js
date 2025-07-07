@@ -1,0 +1,11 @@
+var json__46 = {
+"type": "FeatureCollection",
+"name": "_46",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Часовня Александра Невского в Стародубе (действ.)", "descriptio": "\n<div align=\"center\"><a href=\"http:\/\/www.temples.ru\/gallery.php?CardID=17875\"><img src=\"http:\/\/www.temples.ru\/private\/f000125\/125_0127128g.jpg\" border=1 width=\"180\" height=\"120\"><\/a><br><br>\nБрянская обл., Стародубский р-н, г. �", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 32.762522, 52.584761, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Церковь Александра Невского в Понуровке (сохр.)", "descriptio": "\n<div align=\"center\"><a href=\"http:\/\/www.temples.ru\/gallery.php?CardID=17379\"><img src=\"http:\/\/www.temples.ru\/private\/f000125\/125_0114058g.jpg\" border=1 width=\"180\" height=\"119\"><\/a><br><br>\nБрянская обл., Стародубский р-н, с. �", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 32.82558, 52.36317, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Часовня Александра Невского в Клинцах (не сохр.)", "descriptio": "\n<div align=\"center\">Брянская обл., г. Клинцы, ул. Октябрьская, [40]<br><br><a href=\"http:\/\/www.temples.ru\/card.php?ID=17659\"><nobr><i>Подробная информация<\/i><\/nobr><\/a><br><br><\/div>", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 32.236261, 52.752516, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Церковь-часовня Александра Невского в Клинцах (действ.)", "descriptio": "\n<div align=\"center\"><a href=\"http:\/\/www.temples.ru\/gallery.php?CardID=17658\"><img src=\"http:\/\/www.temples.ru\/private\/f000125\/125_0128838g.jpg\" border=1 width=\"180\" height=\"119\"><\/a><br><br>\nБрянская обл., г. Клинцы, ул. Октябр�", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 32.236261, 52.752516, 0.0 ] } }
+]
+}

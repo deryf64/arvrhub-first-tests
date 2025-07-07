@@ -1,0 +1,11 @@
+var json__36 = {
+"type": "FeatureCollection",
+"name": "_36",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Часовня Александра Невского в Далматово (действ.)", "descriptio": "\n<div align=\"center\"><a href=\"http:\/\/www.temples.ru\/gallery.php?CardID=19939\"><img src=\"http:\/\/www.temples.ru\/private\/f000295\/295_0152706g.jpg\" border=1 width=\"119\" height=\"180\"><\/a><br><br>\nКурганская обл., Далматовский р-н, �", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 62.939657, 56.258218, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Собор Александра Невского (действ.)", "descriptio": "\n<div align=\"center\"><a href=\"http:\/\/www.temples.ru\/gallery.php?CardID=12138\"><img src=\"http:\/\/www.temples.ru\/private\/f000368\/368_0055602g.jpg\" border=1 width=\"180\" height=\"126\"><\/a><br><br>\nг. Курган, ул. Володарского, 42<br><br><a", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 65.342818, 55.439081, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Часовня Александра Невского в Смолино (действ.)", "descriptio": "\n<div align=\"center\"><a href=\"http:\/\/www.temples.ru\/gallery.php?CardID=20109\"><img src=\"http:\/\/www.temples.ru\/private\/f000278\/278_0156869g.jpg\" border=1 width=\"135\" height=\"180\"><\/a><br><br>\nг. Курган, пос. Смолино, Малый пер., 1", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 65.394664, 55.428356, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Церковь Сретения Господня в Окуневском (сохр.)", "descriptio": "\n<div align=\"center\"><a href=\"http:\/\/www.temples.ru\/gallery.php?CardID=15487\"><img src=\"http:\/\/www.temples.ru\/private\/f000583\/583_0092688g.jpg\" border=1 width=\"180\" height=\"135\"><\/a><br><br>\nКурганская обл., Каргапольский р-н,", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 64.183845, 55.739674, 0.0 ] } }
+]
+}
